@@ -80,7 +80,7 @@ This is an obstacle avoidance robot built with Arduino Uno that:
 ## Author
 
 Ahmed Ayyaz  
-NUST H-12 SEECS (Batch 2028)
+NUST H-12 SEECS (Batch 2025)
 
 ## License
 
